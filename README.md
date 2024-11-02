@@ -38,11 +38,11 @@ This section is about your regular work / project, not about the code in this re
 
 Think about guiding refactoring-work in your regular/project teams. Think of the day-to-day work done in your team, and improving the quality of code.
 
-You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? **
-yes**
+You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team?
+yes
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-**# Code Quality Improvement Plan
+# Code Quality Improvement Plan
 
 During the next four weeks, I plan to focus on several key improvements in my code-quality practices:
 
@@ -65,4 +65,3 @@ During the next four weeks, I plan to focus on several key improvements in my co
    I will dedicate time to learn about new tools and methodologies related to code quality and share my findings with my team. This could involve introducing them to new testing frameworks or code quality tools that could benefit our workflows.
 
 By focusing on these areas, I aim to improve the maintainability, reliability, and overall quality of my code, which will ultimately lead to better software products.
-**
