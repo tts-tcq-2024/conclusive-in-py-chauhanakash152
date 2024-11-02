@@ -1,0 +1,10 @@
+Test Case ID,Test Case Name,Description,Input,Expected Output,Notes
+1,test_too_low_passive,Test if temperature below lower limit is classified as TOO_LOW for passive cooling,-1,TOO_LOW,Tests boundary condition for passive cooling
+2,test_normal_passive,Test if temperature within limits is classified as NORMAL for passive cooling,20,NORMAL,Tests normal temperature condition for passive cooling
+3,test_too_high_passive,Test if temperature above upper limit is classified as TOO_HIGH for passive cooling,36,TOO_HIGH,Tests boundary condition for passive cooling
+4,test_too_low_hi_active,Test if temperature below lower limit is classified as TOO_LOW for high active cooling,-1,TOO_LOW,Tests boundary condition for high active cooling
+5,test_normal_hi_active,Test if temperature within limits is classified as NORMAL for high active cooling,30,NORMAL,Tests normal temperature condition for high active cooling
+6,test_too_high_hi_active,Test if temperature above upper limit is classified as TOO_HIGH for high active cooling,46,TOO_HIGH,Tests boundary condition for high active cooling
+7,test_too_low_med_active,Test if temperature below lower limit is classified as TOO_LOW for medium active cooling,-1,TOO_LOW,Tests boundary condition for medium active cooling
+8,test_normal_med_active,Test if temperature within limits is classified as NORMAL for medium active cooling,30,NORMAL,Tests normal temperature condition for medium active cooling
+9,test_too_high_med_active,Test if temperature above upper limit is classified as TOO_HIGH for medium active cooling,41,TOO_HIGH,Tests boundary condition for medium active cooling
